@@ -1,0 +1,27 @@
+.border_properties{
+    border: 10px outset red ;
+}
+
+.border_properties1{
+    border: 10px inset red ;
+}
+
+.border_propertie2{
+    border: 10px double red ;
+    border-radius: 40px;
+}
+
+.border_properties3{
+    border: 10px double red ;
+    border-top-left-radius: 40px;
+}
+
+.border_properties4{
+    border: 10px double red ;
+    border-bottom-right-radius: 40px;
+}
+
+.border_propertie5{
+    border: 10px double red ;
+    border-radius: 40px 80px 40px 80px;
+}
