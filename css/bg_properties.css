@@ -1,0 +1,31 @@
+/* body{
+    background-color: blueviolet;
+    background-image: url("/images/boat.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+} */
+
+#div1{
+    height: 200px;
+    background-color: brown;
+    background-image: linear-gradient(to bottom right,red,yellow,black,green);
+}
+
+#div2{
+    height: 200px;
+    background-color: brown;
+    background-image: radial-gradient(circle,red,yellow,black,green)
+}
+
+#div3{
+    height: 500px;
+    background-color: aqua;
+    background-image: conic-gradient(red,yellow,black,green);
+}
+
+#div4{
+    height: 500px;
+    background-color: aqua;
+    background-image: conic-gradient(red 75deg,yellow 80deg,black 180deg,green);
+}
