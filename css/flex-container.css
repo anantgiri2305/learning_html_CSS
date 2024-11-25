@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.flex-items{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.flex-gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.images{
+    padding: 5px;
+    margin: 10px;
+    width: 500px;
+    height: 5oopx;
+}
